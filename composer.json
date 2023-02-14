@@ -1,0 +1,19 @@
+{
+    "name": "joshuawebdev/php-mundi",
+    "description": "Library with informations from countries, states, and cities of world",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Josué Barros da Silva",
+            "email": "josue.barros1986@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "JoshuaWebDev\\Mundi\\": "src/"
+        }
+    }
+}
